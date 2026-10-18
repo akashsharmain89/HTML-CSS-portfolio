@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+  <title id="title">Simple illustrated profile picture</title>
+  <desc id="desc">A friendly illustrated person on a soft green background.</desc>
+  <rect width="420" height="420" rx="28" fill="#dce8d3"/>
+  <circle cx="210" cy="185" r="112" fill="#c6d8ba"/>
+  <path d="M97 369c8-70 53-110 113-110s105 40 113 110" fill="#63845b"/>
+  <path d="M151 158c0-56 24-84 61-84 44 0 65 35 62 86l-9 42H160z" fill="#44352e"/>
+  <ellipse cx="211" cy="175" rx="61" ry="73" fill="#d99b74"/>
+  <path d="M150 165c-3-47 22-83 65-83 33 0 57 21 61 62-23-6-38-23-49-38-17 23-43 39-77 40z" fill="#44352e"/>
+  <circle cx="190" cy="177" r="4" fill="#332a25"/><circle cx="232" cy="177" r="4" fill="#332a25"/>
+  <path d="M196 205q15 12 30 0" fill="none" stroke="#8e5746" stroke-width="4" stroke-linecap="round"/>
+  <path d="M186 247l25 30 25-30" fill="#fffdf8"/>
+  <path d="M170 260l41 34 41-34 43 109H128z" fill="#f8f6ed"/>
+  <path d="M211 294l-13 25 13 50 13-50z" fill="#63845b"/>
+  <circle cx="82" cy="86" r="12" fill="#f8f6ed"/><circle cx="335" cy="112" r="8" fill="#f8f6ed"/>
+  <path d="M315 285l7 14 15 2-11 10 3 15-14-7-13 7 2-15-11-10 15-2z" fill="#f8f6ed"/>
+</svg>
